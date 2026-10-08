@@ -1,0 +1,6 @@
+{
+  "name": "Confirmação de Presença de Casamento",
+  "description": "Sistema elegante e animado de confirmação de presença (RSVP) para o casamento de Helena & Gabriel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
